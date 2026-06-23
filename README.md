@@ -34,7 +34,7 @@ Flash a fresh SD card with **Raspberry Pi OS Bookworm** using Raspberry Pi Image
 SSH into your Pi, then:
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/digital-movie-poster/main/install.sh
+wget https://raw.githubusercontent.com/ant456/digital-movie-poster/main/install.sh
 chmod +x install.sh
 sudo bash install.sh YOUR_USERNAME
 ```
