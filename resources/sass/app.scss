@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@import 'util';
+@import 'globals';
+@import 'fonts';
+@import 'modal';
+@import 'template';
+@import 'animations';
